@@ -1,0 +1,15 @@
+artifact_uri: /content/drive/MyDrive/Colab Notebooks/stockmarket-analysis/mlruns/652997839984571009/cf66b00bdd6646028098d480efbc0eff/artifacts
+end_time: 1743992635865
+entry_point_name: ''
+experiment_id: '652997839984571009'
+lifecycle_stage: active
+run_id: cf66b00bdd6646028098d480efbc0eff
+run_name: ARIMA_Base
+run_uuid: cf66b00bdd6646028098d480efbc0eff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743992634587
+status: 3
+tags: []
+user_id: root

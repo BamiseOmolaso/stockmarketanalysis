@@ -1,0 +1,16 @@
+artifact_uri: /content/drive/MyDrive/Colab Notebooks/stockmarket-analysis/mlruns/652997839984571009/e83251df8f444ce3b585695fedd0aa3c/artifacts
+deleted_time: 1743994904533
+end_time: 1743992748234
+entry_point_name: ''
+experiment_id: '652997839984571009'
+lifecycle_stage: deleted
+run_id: e83251df8f444ce3b585695fedd0aa3c
+run_name: LSTM_Base
+run_uuid: e83251df8f444ce3b585695fedd0aa3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743992746810
+status: 4
+tags: []
+user_id: root
